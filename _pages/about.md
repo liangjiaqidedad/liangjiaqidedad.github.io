@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from BIT. My research interest includes computer vision, Deep learning, and Radar signal pocessing.
+I'm a third year undergraduate student from BIT(Beijing Institute of Technology). My research interest includes computer vision, Deep learning, and Radar signal pocessing.
